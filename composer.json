@@ -2,7 +2,7 @@
     "name": "billplzplugin/billplz-for-mycred",
     "description": "A Billplz plugin for integration with myCRED",
     "type": "wordpress-plugin",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Wan",
