@@ -1,5 +1,8 @@
-
 # Billplz for myCRED
+[![Latest Stable Version](https://poser.pugx.org/billplzplugin/billplz-for-mycred/version)](https://packagist.org/packages/billplzplugin/billplz-for-mycred)
+[![Total Downloads](https://poser.pugx.org/billplzplugin/billplz-for-mycred/downloads)](https://packagist.org/packages/billplzplugin/billplz-for-mycred)
+[![Latest Unstable Version](https://poser.pugx.org/billplzplugin/billplz-for-mycred/v/unstable)](//packagist.org/packages/billplzplugin/billplz-for-mycred)
+[![License](https://poser.pugx.org/billplzplugin/billplz-for-mycred/license)](https://packagist.org/packages/billplzplugin/billplz-for-mycred)
 
 Accept Payment using Billplz by using this plugin
 
