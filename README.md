@@ -1,8 +1,8 @@
 # Billplz for myCRED
-[![Latest Stable Version](https://poser.pugx.org/billplzplugin/billplz-for-mycred/version)](https://packagist.org/packages/billplzplugin/billplz-for-mycred)
-[![Total Downloads](https://poser.pugx.org/billplzplugin/billplz-for-mycred/downloads)](https://packagist.org/packages/billplzplugin/billplz-for-mycred)
-[![Latest Unstable Version](https://poser.pugx.org/billplzplugin/billplz-for-mycred/v/unstable)](//packagist.org/packages/billplzplugin/billplz-for-mycred)
-[![License](https://poser.pugx.org/billplzplugin/billplz-for-mycred/license)](https://packagist.org/packages/billplzplugin/billplz-for-mycred)
+[![Latest Stable Version](https://poser.pugx.org/billplz/billplz-for-mycred/version)](https://packagist.org/packages/billplz/billplz-for-mycred)
+[![Total Downloads](https://poser.pugx.org/billplz/billplz-for-mycred/downloads)](https://packagist.org/packages/billplz/billplz-for-mycred)
+[![Latest Unstable Version](https://poser.pugx.org/billplz/billplz-for-mycred/v/unstable)](//packagist.org/packages/billplz/billplz-for-mycred)
+[![License](https://poser.pugx.org/billplz/billplz-for-mycred/license)](https://packagist.org/packages/billplz/billplz-for-mycred)
 
 Accept Payment using Billplz by using this plugin
 
@@ -12,7 +12,7 @@ Accept Payment using Billplz by using this plugin
 
 ## Installation
 
-* Download here: [**Link**](https://github.com/billplzplugin/Billplz-for-myCRED/archive/master.zip)
+* Download here: [**Link**](https://github.com/billplz/Billplz-for-myCRED/archive/master.zip)
 * Install to WordPress and **Activate**.
 * Let's Configure!
 

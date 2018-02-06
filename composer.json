@@ -1,5 +1,5 @@
 {
-    "name": "billplzplugin/billplz-for-mycred",
+    "name": "billplz/billplz-for-mycred",
     "description": "A Billplz plugin for integration with myCRED",
     "type": "wordpress-plugin",
     "license": "GPL-3.0-or-later",
