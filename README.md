@@ -12,6 +12,13 @@ Accept Payment using Billplz by using this plugin
 
 ## Installation
 
+For **Composer** Installation:
+```bash
+composer require billplz/billplz-for-mycred 
+```
+
+Normal WordPress Installation:
+
 * Download here: [**Link**](https://github.com/billplz/Billplz-for-myCRED/archive/master.zip)
 * Install to WordPress and **Activate**.
 * Let's Configure!
